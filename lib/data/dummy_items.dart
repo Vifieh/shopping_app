@@ -12,7 +12,7 @@ List<GroceryItem> groceryItems = [
   GroceryItem(
     id: "b",
     name: "Bananas",
-    quantity: 1,
+    quantity: 5,
     category: categories[Categories.fruit]!,
   ),
   GroceryItem(
